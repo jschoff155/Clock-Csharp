@@ -1,0 +1,11 @@
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.AssemblyReference.cache
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.DigitalFormClock.resources
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\jscho\OneDrive\Documents\GitHub\C# Projects\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
